@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**WiiWake3101/WiiWake3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...Printing Press Ticket Alloting as per customer Request
+- 🌱 I’m currently learning ...OODP
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...vm4512@srmist.edu.in (or) Wiiwake_3101 (insta)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
